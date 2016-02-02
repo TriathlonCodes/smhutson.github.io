@@ -1,0 +1,22 @@
+#terminal {
+  width: 70%;
+  height: 40%;
+  background-color: #0f0f0f;
+  color: #00ff00;
+  padding: 1em;
+  font-family: courier;
+  margin: 0px auto;
+  /*line-height: 2em;*/
+}
+
+#cursor {
+  font-weight: bold;
+}
+
+table {
+  color: #00ff00;
+}
+
+td {
+  height: 2em;
+}
